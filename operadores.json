@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "matricula": "ADMIN",
+    "nome": "Administrador",
+    "turno": "Manhã",
+    "status": "Ativo"
+  },
+  {
+    "id": "2",
+    "matricula": "001",
+    "nome": "Operador 01",
+    "turno": "Manhã",
+    "status": "Ativo"
+  }
+]

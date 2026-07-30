@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "codigo": "46EL250USC01",
+    "nome": "LEITOR COD BARRAS 1D 2D ELGIN BEMA EL350",
+    "modelo": "46EL250USC01",
+    "tipo": "EL250",
+    "ean13": "7891234567890",
+    "codigos": [
+      {
+        "ordem": 1,
+        "nome": "QR Code - Etiqueta Produto",
+        "valorEsperado": "6922711051772",
+        "icone": "qr-code-scan"
+      },
+      {
+        "ordem": 2,
+        "nome": "Código 1D - Caixa 1",
+        "valorEsperado": "2112345678917",
+        "icone": "upc"
+      },
+      {
+        "ordem": 3,
+        "nome": "Código 1D - Caixa 2",
+        "valorEsperado": "6901028075763",
+        "icone": "upc-scan"
+      },
+      {
+        "ordem": 4,
+        "nome": "Firmware - Versão",
+        "valorEsperado": "",
+        "icone": "cpu"
+      }
+    ]
+  }
+]
